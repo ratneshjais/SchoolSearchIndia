@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+    @import "assets/css/normalize.css";
+
+    /* Main Css */
+    @import "assets/css/main.css";
+
+    /* <!-- Bootstrap Css --> */
+    @import "assets/css/bootstrap.min.css";
+    
+    /* <!-- Animate CSS --> */
+    @import "assets/css/animate.min.css";
+
+    /* <!-- Fontawesome CSS --> */
+    
+    @import "assets/css/fontawesome-all.min.css";
+
+    /* <!-- Flaticon CSS --> */
+    @import "assets/fonts/flaticon.css";
+
+    /* /* <!-- Owl Carousel CSS --> */
+    /* @import "assets/css/owl.carousel.min.css";
+    @import "assets/css/owl.theme.default.min.css"; */
+
+    /* <!-- Slick Caousel CSS --> */
+    @import "assets/css/slick.css";
+    @import "assets/css/slick-theme.css";
+
+    /* <!-- Custom Css --> */
+    @import "assets/css/style.css";
